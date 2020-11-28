@@ -1,0 +1,73 @@
+<style>
+
+body {
+    
+  font-family: cursive:
+  margin: 20px;
+    width: 1500px;
+    }
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #F5A9F2;
+ 
+}
+
+
+.navbar a {
+  float: left;
+  display:flex;
+    width:auto;
+  color: white;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: underline;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+row {align-content: center;
+       
+}
+p {
+    font-size: 20px;
+    font-family: cursive;
+    align-content: left;
+    margin-left: 100px
+     
+}
+
+th{
+    background-color:white;
+    font-size: 30px;
+    color: purple;
+    width:inherit;
+    font-family:cursive, serif;
+    padding: 20px 20px 20px 20px;
+}
+
+
+ul{
+    font-family: cursive;
+    padding-left: 200px;
+    
+}
+    
+    img{
+        padding-left: 170px; 
+    }
+li{
+    font-size: 20px;
+    font-family: cursive;
+    padding: 40px 40px 40px 40px;   
+    
+}
+
+div{
+    padding: 30px;
+    font-family: cursive;
+    
+}
+
+</style>
